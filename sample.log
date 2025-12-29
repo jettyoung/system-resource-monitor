@@ -1,0 +1,8 @@
+2025-12-29 10:00:00 [INFO] System started
+2025-12-29 10:01:00 [WARNING] High memory usage
+2025-12-29 10:02:00 [ERROR] Disk almost full
+2025-12-29 10:03:00 [ERROR] Connection timeout
+2025-12-29 10:04:00 [CRITICAL] Service crashed
+2025-12-29 10:05:00 [INFO] Restarting...
+2025-12-29 10:06:00 [ERROR] Failed again
+2025-12-29 10:07:00 [ERROR] One more for good measure
